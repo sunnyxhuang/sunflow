@@ -1,5 +1,5 @@
 .idea
 *.o
 src/Ximulator
-src/ximultor_main
+src/ximulator_main
 tests/test_src/ximulator_test

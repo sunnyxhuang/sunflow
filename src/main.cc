@@ -41,7 +41,7 @@ int main(int argc, const char *argv[]) {
   DEBUG_LEVEL = 0;
 
   // "fb" | "fb1by1" | "utilizationONLY" | "analyzeONLY"
-  string trafficProducerName = "fb1by1";
+  string trafficProducerName = "fb";
 
   for (int i = 1; i < argc; i = i + 2) {
     /* We will iterate over argv[] to get the parameters stored inside.
